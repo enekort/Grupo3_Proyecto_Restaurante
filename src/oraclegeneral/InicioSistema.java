@@ -12,6 +12,7 @@ import views.Login;
  * @author Erik David Zubia Hernandez.
  * @since 16/05/2015
  * @version 1.0
+ Usuario 1
  */
 public class InicioSistema {
     
